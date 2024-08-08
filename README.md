@@ -2,12 +2,6 @@
 
 This is a PHP SDK prototype for the fictional headless content service called Such Cloud. The SDK is designed to manage documents stored in an SQLite database, partitioned by API keys for different users.
 
-## Features
-
-- Authenticate with an API key.
-- Create, retrieve, update, and delete documents.
-- Partition data by API key to ensure data isolation between different users.
-
 ## Requirements
 
 - PHP 8.2 or higher
